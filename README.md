@@ -6,7 +6,7 @@
 - 💬 contate-me no email:antoniofuggi117@gmail.com
 
 -->
-
+ 
   
   
  
@@ -22,3 +22,15 @@
   <div align="center">
   <img src="https://github.com/Pedro-Henrique-Graf-Vieira/Pedro-Henrique-Graf-Vieira/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioAugustoFuggi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoFuggi&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
